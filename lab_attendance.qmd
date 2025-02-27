@@ -1,6 +1,6 @@
 ---
 title: "lab_attendance"
-name: "Mel Balcarcel Arias"
+author: "Mel Balcarcel Arias"
 format: html
 ---
 
